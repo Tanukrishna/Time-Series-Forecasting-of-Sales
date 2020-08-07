@@ -1,7 +1,7 @@
 # Time-Series-Forecasting-of-Sales
 
 ### Objective:
-To build a model to forecast sales of a sovenior shop for the next 5 years.
+To build a model to forecast sales of a souvenir shop for the next 5 years.
 
 ### Info on Data:
 
